@@ -1,4 +1,5 @@
-* WEBPACK PLAYGROUND *
+WEBPACK PLAYGROUND
+==================
 
 Test out the Webpack Module Bundler for use on future projects.
 
